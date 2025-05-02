@@ -49,8 +49,6 @@ Projeto completo para gerenciamento de usuários com interface moderna em **Vue 
 ## Backend (Laravel)
 ### 1. Clone o repositório e acesse o backend
 git clone https://github.com/mtsgb/user-management-frontend
-)
-cd systock/backend
 
 ### 2. Instale as dependências PHP
 composer install
